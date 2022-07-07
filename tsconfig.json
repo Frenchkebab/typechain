@@ -1,6 +1,8 @@
 {
   "include": ["src"], // directory that has files to compile
   "compilerOptions": {
-    "outDir": "build"
+    "outDir": "build",
+    "target": "ES6",
+    "moduleResolution": "node"
   }
 }
