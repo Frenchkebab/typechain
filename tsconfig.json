@@ -1,0 +1,6 @@
+{
+  "include": ["src"], // directory that has files to compile
+  "compilerOptions": {
+    "outDir": "build"
+  }
+}
